@@ -26,5 +26,5 @@ I built this project as part of my coursework to strengthen my understanding of:
 ~> How to Run
 1. Clone the repository:
 ```bash
-git clone https://github.com/talhayousaf01/patient-doctor-management-system.git
+https://github.com/talhayousaf01/patient-doctor-management-system-.git
    
