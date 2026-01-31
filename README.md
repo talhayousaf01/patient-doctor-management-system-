@@ -23,8 +23,4 @@ I built this project as part of my coursework to strengthen my understanding of:
 - Conditional logic and loops
 - Console input/output
 
-~> How to Run
-1. Clone the repository:
-```bash
-https://github.com/talhayousaf01/patient-doctor-management-system-.git
    
